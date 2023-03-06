@@ -2,16 +2,20 @@
 
 ### Contacts
 
-**E-mail:** oksana.zaharchenko@gmail.com
-**Telegram:** @oksanazakharchenko
-**GitHub:** [github.com](https://github.com/oksanazah)
+**E-mail:** oksana.zaharchenko@gmail.com\
+**Telegram:** @oksanazakharchenko\
+**GitHub:** [github.com](https://github.com/oksanazah)\
 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/oksana-zakharchenko-85238a24a/)
+
+---
 
 ### Summary
 
 A year ago I started thinking about a career change and chose Frontend Development because it is a challenging, creative and flexible job with high demand and growth opportunities.
 
 For this year I've made some progress in learning HTML, CSS, Javascript and started learning React.
+
+---
 
 ### Skills
 
@@ -22,9 +26,11 @@ For this year I've made some progress in learning HTML, CSS, Javascript and star
 - Adobe Photoshop
 - Figma
 
+---
+
 ### Code example
 
-_Moving Zeros To The End_
+_Moving Zeros To The End:_
 
 ```
 function moveZeros(arr) {
@@ -40,14 +46,18 @@ function moveZeros(arr) {
 }
 ```
 
+---
+
 ### Education
 
-- Zaporizhzhia State Engineering Academy
+- **Zaporizhzhia State Engineering Academy**
   - Master's degree, Micro- and nanosystem technology
-- EPAM University
+- **EPAM University**
   - IT Fundamentals for Switchers, Front End for Beginners
-- EPAM University
+- **EPAM University**
   - Front-End and JavaScript Program, Intermediate Level
+
+---
 
 ### Languages
 
